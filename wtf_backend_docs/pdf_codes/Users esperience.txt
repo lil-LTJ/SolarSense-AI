@@ -1,0 +1,29 @@
+WHAT USERS EXPERIENCE:
+Amina's experience:
+Gets report: Sees normal PDF with barely noticeable watermark
+
+Downloads: Can download up to 10 times per hour (plenty!)
+
+Returns later: Report still available if within 24 hours
+
+Returns after 24h: Report automatically deleted (can regenerate)
+
+
+
+Hacker's experience:
+Tries to guess report IDs: Format validation blocks invalid IDs
+
+Tries mass downloads: Rate limiting blocks after 10 attempts
+
+Steals report: Watermark shows it belongs to specific business
+
+Waits to attack: Cleanup removes old reports regularly
+
+System benefits:
+✅ Storage efficient (auto-deletes old reports)
+
+✅ Traceable (watermarks identify source)
+
+✅ Controlled access (rate limits prevent abuse)
+
+✅ Secure (proper permissions prevent unauthorized access)
