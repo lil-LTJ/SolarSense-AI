@@ -75,20 +75,17 @@ transitioning to clean energy.
 
  
 ### READ MORE ON PROBLEM STATEMENT [HERE](https://github.com/lil-LTJ/SolarSense-AI/blob/ff882943bf656e28cbd1214d4e839431ed462699/Capstone%20Project%20%5B58%5D%20%E2%80%93%20Problem%20Statement%20v2(1).pdf)
-
-#### Project teams
 ***
+#### Project teams
+
+```
 ●Cybersecurity
-
 ●Frontend
-
 ●Backend
-
 ●Data Science
-
 ●Product Design
-
 ●Product Management
+```
 ***
 
 #### Content Of this Repo
