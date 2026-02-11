@@ -1,0 +1,20 @@
+backend/
+├── src/
+│   ├── middleware/
+│   │   ├── security-middleware.js
+│   │   ├── validation-middleware.js
+│   │   └── error-handler.js
+│   ├── services/
+│   │   ├── encryption-service.js
+│   │   ├── safe-queries.js
+│   │   └── assessment-service.js
+│   ├── routes/
+│   │   └── assessment-routes.js
+│   ├── utils/
+│   │   └── health-check.js
+│   └── app.js
+├── prisma/
+│   └── schema.prisma
+├── .env.example
+├── package.json
+└── README.md
