@@ -52,15 +52,23 @@ independent solar viability assessments tailored specifically to SMEs. By levera
 data-driven tools such as solar irradiance modeling and accurate
 return-on-investment (ROI) projections, the solution enables businesses to
 determine—before committing capital—whether solar energy is viable for them.
+
 This contributes to SDG 7 by:
+
 ● Improving access to affordable energy through informed solar adoption
+
 (Target 7.1)
+
 ● Increasing the share of renewable energy in SME energy consumption
+
 (Target 7.2)
+
 ● Enhancing energy efficiency by enabling right-sized, optimized solar
 systems and reducing energy waste (Target 7.3)
+
 ● Promoting clean energy investment and infrastructure by lowering entry
 barriers for SMEs (Targets 7.a and 7.b)
+
 Rather than installing solar systems directly, the solution unlocks adoption by
 removing the decision-making and affordability barrier that prevents SMEs from
 transitioning to clean energy.
